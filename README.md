@@ -1,10 +1,10 @@
 # 🖼️ Image Processing and Organization Script
 
-This Python script is a versatile tool for efficiently processing and organizing images in a specified folder. It provides several functionalities to enhance your image management experience.
+I am employing this script to systematically organize my AI-generated images based on their names and aspect ratios. The random image selection aspect of the script is crucial for my content creation process, where I generate textual content using these images. I aim to ensure diversity by utilizing a different image for each piece of content.  
 
 ## Crop and Rename Images by Aspect Ratio 📐
 
-The script allows you to crop images based on specified aspect ratios and organizes them into folders. The `crop_image_by_ratio` function takes an input image, calculates the desired crop dimensions, and saves the cropped images with new names based on the specified aspect ratios.
+The script allows you to crop images based on specified aspect ratios and organize them into folders. The `crop_image_by_ratio` function takes an input image, calculates the desired crop dimensions, and saves the cropped images with new names based on the specified aspect ratios.
 
 ## Copy and Rename Images with Subfolders 📁
 
